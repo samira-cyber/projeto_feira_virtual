@@ -4,6 +4,9 @@ def __init__(self):
 #Adiciona um novo utilizador recebendo o nome, interesses e artigos
 def registar_utilizador (self, nome, interesses, artigos_disponiveis):
 
+#retirar essa parte linha 7 e 8 pois é somente teste
+    print ("Olá")
+
 #Importa uma lista de utilizadores a partir de um ficheiro
 def importar_utilizadores(self, nome_ficheiro):
 
