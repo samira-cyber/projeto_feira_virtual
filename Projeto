@@ -1,0 +1,6 @@
+def main():
+    print("Bem Vindo à Feira Virtual. Pretende aceder a: /n1 - Utilizadores; /n2 - Artigos; /n3 - Mercado")
+
+
+if __name__ == '__main__':
+    main()
