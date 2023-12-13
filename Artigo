@@ -1,5 +1,7 @@
 #Construtor
 def __init__(self, nome, preco, tipologia, quantidade):
+    #RETIRAR DEPOIS ESSE COMENTÁRIO
+
 
 #Altera o nome de um artigo para o novo nome recebido
 def editar_nome(self, nome):
